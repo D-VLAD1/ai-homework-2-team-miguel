@@ -1,0 +1,2 @@
+anchor-based: yolov5s val AP 0.1420 AP50 0.2945 AP_small 0.0501
+anchor-free: yolox-s val AP 0.2014 AP50 0.4106 AP_small 0.0806
