@@ -6,6 +6,7 @@ date: 2026-10-12
 ---
 
 ## Introduction
+>Authors: Iia Maharyta and Vladyslav Danylyshyn
 
 In this homework we practiced with videodetection from dron. There were 8 classes: person, bicycle, car, van, truck, tricycle, bus, motor.
 
